@@ -1,0 +1,2 @@
+puts "hi"
+print "hi"
